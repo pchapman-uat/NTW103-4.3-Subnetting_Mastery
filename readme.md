@@ -1,19 +1,8 @@
 # Assignment 4.3: Subnetting Mastery
 
 
-1. What are the seven elements of a subnetting question, and what do they mean? 
+## 1. What are the seven elements of a subnetting question, and what do they mean? 
 ----
-<!-- 
-
-Network ID. First IP address in each Sub-Network. -     Designates where IP address will start, can not be used by a device
-Broadcast IP. Last IP address in each Sub-Network. - Sends data to all devices, can not be used by a device
-First Host IP. IP address after the Network ID. - Commonly the router, as its the first device
-Last Host IP. IP address before the Broadcast IP. - The last possible IP that can be provided
-Next Network. IP address after the Broadcast IP. - The next networks starting IP
-# IP Addresses. Number of IP addresses in Sub-Network
-CIDR/ Subnet. Converting between CIDR/ Subnet Mask
-
- -->
 
 * Network ID - First IP address in each Sub-Network - Designates where IP address' will start (not used by any devices)
 * Broadcast IP - Last IP address in each Sub-Network - Sends data to all devices (not used by any devices)
@@ -25,15 +14,7 @@ CIDR/ Subnet. Converting between CIDR/ Subnet Mask
 
 ----
 
-2. How to use and create a subnet cheatsheet
-<!-- 
-a. Start with 1, double until 128 (right to left)
-
-b. Subtract top row from 256
-
-c. From /32 (right to left)
- -->
-
+## 2. How to use and create a subnet cheatsheet
 
 a. Start with 1, double until we reach 128, from right to left
 
@@ -47,16 +28,8 @@ c. From /32, decrease by 1, from right to left
 | /25 | /26 | /27 | /28 | /29 | /30 | /31 | /32 | - CIDR |
 ----
 
-3. Provide two examples in which you demonstrate the use of a subnet cheatsheet.
-<!-- 
- 1. # IP Addresses - Cheat Sheet
- 2. CIDR/ Subnet - 255.255.255.<cheat sheet>
- 3. Next Network - Add group size until greater than the last value in the IP
- 4. Network ID - Subtract group size from Broadcast ID
- 5. Broadcast IP - One less than the Next Network
- 6. First Host - Add one to Network ID
- 7. Last Host - Subtract one from Broadcast IP
- -->
+## 3. Provide two examples in which you demonstrate the use of a subnet cheatsheet.
+
 10.1.1.55/28
 
 1. \# of IP Address (Group Size) - Cheat Sheet
@@ -75,15 +48,7 @@ c. From /32, decrease by 1, from right to left
 * \# IP Addresses: `16`
 * CIDR/ Subnet: `255.255.255.240`
 
-<!-- * Network ID.
-* Broadcast IP.
-* First Host IP.
-* Last Host IP.
-* Next Network.
-* \# IP Addresses
-* CIDR/ Subnet. -->
-
-----
+---
 10.1.1.37/29
 
 * Network ID: `10.1.1.32`
