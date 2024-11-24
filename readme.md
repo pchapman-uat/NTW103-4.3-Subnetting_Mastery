@@ -1,6 +1,6 @@
 # Assignment 4.3: Subnetting Mastery
 
-<iframe src="https://uatedu-my.sharepoint.com/personal/pchapman82070_uat_edu/_layouts/15/embed.aspx?UniqueId=75967354-0fa8-4c86-b11c-c15e585cf5bf&embed=%7B%22ust%22%3Atrue%2C%22hv%22%3A%22CopyEmbedCode%22%7D&referrer=StreamWebApp&referrerScenario=EmbedDialog.Create" width="640" height="360" frameborder="0" scrolling="no" allowfullscreen title="NTW103-4.3-PChapman.mkv"></iframe>
+[Watch Video](https://uatedu-my.sharepoint.com/:v:/r/personal/pchapman82070_uat_edu/Documents/NTW103-4.3-PChapman.mkv?csf=1&web=1&e=Z1ZkEW&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D) 
 
 ## 1. What are the seven elements of a subnetting question, and what do they mean? 
 ----
