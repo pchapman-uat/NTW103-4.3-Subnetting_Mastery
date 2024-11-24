@@ -1,5 +1,6 @@
 # Assignment 4.3: Subnetting Mastery
 
+<iframe src="https://uatedu-my.sharepoint.com/personal/pchapman82070_uat_edu/_layouts/15/embed.aspx?UniqueId=75967354-0fa8-4c86-b11c-c15e585cf5bf&embed=%7B%22ust%22%3Atrue%2C%22hv%22%3A%22CopyEmbedCode%22%7D&referrer=StreamWebApp&referrerScenario=EmbedDialog.Create" width="640" height="360" frameborder="0" scrolling="no" allowfullscreen title="NTW103-4.3-PChapman.mkv"></iframe>
 
 ## 1. What are the seven elements of a subnetting question, and what do they mean? 
 ----
